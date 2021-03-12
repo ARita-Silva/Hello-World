@@ -22,7 +22,7 @@ Hi Everyone, here's a treat from The Office while I complete my GitHub Tutorial.
 11. “I love inside jokes. I hope to be a part of one someday.”
 10. “If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.”
 9. "Society teaches us that having feelings and crying is bad and wrong. Well, that's baloney, because grief isn't wrong. There's such a thing as good grief. Just ask Charlie Brown."
-8. "You know what they say. Fool me once, strike one, but fool me twice...strike three."
+9. "You know what they say. Fool me once, strike one, but fool me twice...strike three."
 7. "You cheated on me?....When I specifically asked you not to?"
 6. “I'm not superstitious, but I am a little stitious.”
 5. "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way."
