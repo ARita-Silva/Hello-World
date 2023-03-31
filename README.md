@@ -1,7 +1,7 @@
 # Hello-World
 Just another repository
 
-Hi Everyone, here's a treat from The Office while I complete my GitHub Tutorial. Enjoy!
+Hi Everyone, here's a treat from The Office while I complete my Data Science course. Enjoy!
 
 25 Best Michael Scott Quotes:
 
